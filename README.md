@@ -36,6 +36,8 @@ Open the `index.html` file in your browser to start generating passwords.
 
 <img width="986" height="719" alt="Screenshot" src="https://github.com/user-attachments/assets/cdf02653-4b00-45b7-a01d-d0336d4c1018" />
 
+Try it yourself [here](https://ps.webprojects.mq3z7i.com)
+
 ---
 
 
