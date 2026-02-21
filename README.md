@@ -1,6 +1,6 @@
 # Password Studio 🔐
 
-**Password Studio** is a sleek web app to generate strong, unique passwords instantly. Whether you need a random password, a memorable phrase, or a numeric PIN, this app has you covered — all in your browser with zero tracking.
+**Password Studio** is a sleek web app to generate strong, unique passwords instantly.
 
 ---
 
@@ -43,10 +43,10 @@ Try it yourself [here](https://ps.webprojects.mq3z7i.com)
 
 ## Tech Stack
 
-- **HTML5 & CSS3** – for responsive, modern UI  
+- **HTML5 & CSS3** –  for responsive, modern UI  
 - **JavaScript** – for password generation and dynamic UI  
 - **Web Crypto API** – ensures strong, random passwords  
-- **CSS Variables & Flex/Grid** – for flexible, mobile-friendly layouts  
+- **CSS Variables & Flex/Grid** – for flexible, mobile friendly layouts  
 
 ---
 
